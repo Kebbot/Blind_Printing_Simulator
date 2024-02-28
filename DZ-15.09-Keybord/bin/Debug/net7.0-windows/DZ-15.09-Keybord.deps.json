@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DZ-15.09-Keybord/1.0.0": {
+        "runtime": {
+          "DZ-15.09-Keybord.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DZ-15.09-Keybord/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

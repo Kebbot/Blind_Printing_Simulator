@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ-15.09-Keybord", "DZ-15.09-Keybord\DZ-15.09-Keybord.csproj", "{D7CDA86C-4E3D-4AA4-9AD3-A2EC6743C31D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7CDA86C-4E3D-4AA4-9AD3-A2EC6743C31D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7CDA86C-4E3D-4AA4-9AD3-A2EC6743C31D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7CDA86C-4E3D-4AA4-9AD3-A2EC6743C31D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7CDA86C-4E3D-4AA4-9AD3-A2EC6743C31D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3580BDC1-E75D-485D-8FC4-3614DB2AC5B8}
+	EndGlobalSection
+EndGlobal
